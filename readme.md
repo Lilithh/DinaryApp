@@ -22,8 +22,22 @@
 
 
 
+<center>
+
+<div align=center><img src="support/2.png" width = "40%" height = "40%"/>
+
+写
+
+</center>
 
 
-<div align=center>![error2](support/2.png)
 
-![error3](support/3.png)
+
+
+<center>
+
+<div align=center><img src="support/3.png" width = "40%" height = "40%"/>
+
+读、写
+
+</center>
