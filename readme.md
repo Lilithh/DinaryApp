@@ -12,10 +12,18 @@
 
 界面设计暂为简易：
 
-![error1](support/1.png)
+<center>
+
+<div align=center><img src="support/1.png" width = "40%" height = "40%" />
+
+开始界面
+
+</center>
 
 
 
-![error2](support/2.png)
+
+
+<div align=center>![error2](support/2.png)
 
 ![error3](support/3.png)
